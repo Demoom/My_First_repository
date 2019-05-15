@@ -2,6 +2,7 @@
 ![Process](https://github.com/Demoom/My_First_repository/blob/master/images/Process.png)
 ## 1.数据挖掘
 ### 运行环境：
+Anaconda3 Jupyter Notebook<br>
 python3.7
 
 ### 运行过程：
