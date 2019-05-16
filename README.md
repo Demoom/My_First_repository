@@ -5,7 +5,7 @@
 Anaconda3 Jupyter Notebook<br>
 python3.7
 
-### 运行过程：
+### 运行方式：
 1.打开“数据挖掘”文件夹
 2.将"zuopin.csv"和"data_scrapy.ipynb"文件上传至Jupyter Notebook 平台上<br>
 3.打开"data_scrapy.ipynb"<br>
@@ -29,7 +29,7 @@ JavaSE-1.8<br>
 ![import_jar_package2]()<br>
 导入lucene包同理<br>
 
-### 运行过程：
+### 运行方式：
 相似度比较<br>
 1.打开“相似度比较、提取特征”文件夹
 2.先把需要验证的文本（小说作品这类的）保存到yanzheng.csv文件中，【需保存至csv文件中的第1行、第1列】<br>
@@ -51,7 +51,7 @@ JavaSE-1.8<br>
 eclipse 2019-03
 JavaSE-1.8
 
-### 运行过程：
+### 运行方式：
 1.打开eclipse，使用Open Projects form File System打开blockchain_in_TextCopyright文件夹<br>
 2.展开blockchain_in_TextCopyright找到src中的Get_info.java，将第12行和第20行中的FileReader的读取路径分别改为hanhan.csv和file.txt的所在路径<br>
 3.选择Mine.java类，运行，查看控制台即可<br>
