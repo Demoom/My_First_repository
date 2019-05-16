@@ -18,6 +18,10 @@ python3.7
 
 运行代码只需要导入"zuopin.csv"和"data_scrapy.ipynb"文件，拿出数据需在目录中提出来或者直接使用文件夹中已经提取出的文件<br>
 
+### 运行结果：
+根据输入的书名，可以在cvs文件中看到如下内容被挖掘到<br>
+![result1]()
+
 ## 2.相似度比较 & 提取特征
 ### 运行环境
 eclipse 2019-03
@@ -46,6 +50,12 @@ JavaSE-1.8<br>
 ![out_to_file]()<br>
 5.新生成的文件file.txt被使用在下一步中<br>
 
+### 运行结果：
+计算得到的相似度：<br>
+![result2]()<br>
+提取到的特征：<br>
+![result3]()
+
 ## 3.成块上链
 ### 运行环境：
 eclipse 2019-03
@@ -55,4 +65,12 @@ JavaSE-1.8
 1.打开eclipse，使用Open Projects form File System打开blockchain_in_TextCopyright文件夹<br>
 2.展开blockchain_in_TextCopyright找到src中的Get_info.java，将第12行和第20行中的FileReader的读取路径分别改为hanhan.csv和file.txt的所在路径<br>
 3.选择Mine.java类，运行，查看控制台即可<br>
+
+### 运行结果：
+显示找到的hash值：<br>
+![result4]()
+输出全部区块链：<br>
+![result5]()
+输出每个区块中的内容：<br>
+![result6]()
 
